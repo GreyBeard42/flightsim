@@ -17,10 +17,11 @@ Created on March 28, 2024
 
 
 
-I should make a v2 what do you think..?
+FLIGHT SIM 2 CONFIRMED...
 
-It could have a cockpit view and use mouse pos.
+Comming Soon
 
+ 
 
 [Flight Sim](http://greybeard42.neocities.org/javascript/flight_sim/) © 2024 by [GreyBeard42](../../../) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
