@@ -21,7 +21,7 @@ FLIGHT SIM 2 CONFIRMED...
 
 Comming Soon
 
- 
+---
 
 [Flight Sim](http://greybeard42.neocities.org/javascript/flight_sim/) © 2024 by [GreyBeard42](../../../) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
