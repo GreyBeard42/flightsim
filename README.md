@@ -9,4 +9,4 @@ Created on March 28, 2024
 
 ---
 
-## (Flight Sim 2)[https://github.com/greybeard42/flightsim2]
+## [Flight Sim 2](https://github.com/greybeard42/flightsim2)
