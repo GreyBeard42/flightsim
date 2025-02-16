@@ -3,13 +3,13 @@ let alrm, plane
 let images = []
 
 function preload() {
-  images.push(loadImage('fly/p1-1.png'))
-  images.push(loadImage('fly/p1-2.png'))
-  images.push(loadImage('fly/p2-1.png'))
-  images.push(loadImage('fly/p2-2.png'))
-  images.push(loadImage('fly/p3-1.png'))
-  images.push(loadImage('fly/p3-2.png'))
-  images.push(loadImage('fly/grnd.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p1-1.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p1-2.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p2-1.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p2-2.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p3-1.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/p3-2.png'))
+  images.push(loadImage('https://cdn.jsdelivr.net/gh/GreyBeard42/flight_sim@main/fly/grnd.png'))
 }
 
 function setup() {
